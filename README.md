@@ -60,12 +60,18 @@ cmd: `dit`
  - `<div>Delete inner Tag</div>` -> `<div></div>`
 
 ## Commands - Others:
+
+### Modo Normal:
+
  - `<Ctrl+a>` (Increment)
  - `<Ctrl+i>` (Decrement)
+
+### Modo Insert:
  - `<Ctrl+x><Ctrl+n>` (Autocomplete word)
  - `<Ctrl+x><Ctrl+l>` (Autocomplete line)
  - `<Ctrl+x><Ctrl+f>` (Autocomplete file system)
  - `<Ctrl+x><Ctrl+k>` (Autocomplete dictionary)
+ - `<Ctrl+y>` (Yank from line above and paste)
 
 ## Comands - Done:
 
