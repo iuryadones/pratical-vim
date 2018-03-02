@@ -77,7 +77,7 @@ cmd: `dit`
  - `di)`
  - `diB`
  - `di[`
- - `di\``
+ - ``di` ``
  - `di]`
  - `dib`
  - `dit`
@@ -97,7 +97,7 @@ cmd: `dit`
  - `da)`
  - `daB`
  - `da[`
- - `da\``
+ - ``da` ``
  - `da]`
  - `dab`
  - `dap`
