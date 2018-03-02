@@ -47,8 +47,8 @@ cmd: `di[` or `di]`
 cmd: `diB` or `di{` or `di}`
  - {word1 word2} -> {}
 
-cmd: `di\` `
- - `\`word1 word2\`` -> \`\`
+cmd: `di\``
+ - \`word1 word2\` -> \`\`
 
 cmd: `di'`
  - 'word1 word2' -> ''
@@ -57,7 +57,7 @@ cmd: `di"`
  - "word1 word2" -> ""
 
 cmd: `dit`
- - *<div>Delete inner Tag</div> -> <div></div>*
+ - `<div>Delete inner Tag</div> -> <div></div>`
 
 ## Commands - Others:
  - `<Ctrl+a>` (Increment)
