@@ -47,7 +47,7 @@ cmd: `di[` or `di]`
 cmd: `diB` or `di{` or `di}`
  - {word1 word2} -> {}
 
-cmd: `di\``
+cmd: ``di```
  - \`word1 word2\` -> \`\`
 
 cmd: `di'`
