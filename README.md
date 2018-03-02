@@ -5,7 +5,7 @@ from pipeline to your make commands
 - Quantity | Verbs | Modifiers | Nouns
 - Quantity | Verbs | Nouns
 
-Quantify:
+Quantity:
  - Integer [-Inf < number (not is Zero) < Inf]
  - Percente (1% -> 100%)
 
