@@ -106,10 +106,12 @@ cmd: `dit`
  - `da}`
  - `dd`
  - `dw`
- - `i`
+ - `i` (modo insert)
  - `p`
  - `yE`
  - `yW`
  - `ye`
  - `yw`
  - `yy`
+ - `[s` (Nav match spell)
+ - `]s` (Nav match spell)
