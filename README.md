@@ -62,6 +62,13 @@ Nouns:
 * cmd: `dit`
  - <div>Delete inner Tag</div> -> <div></div>
 
+## Commands - Others:
+ - `<Ctrl+a>` (Increment)
+ - `<Ctrl+i>` (Decrement)
+ - `<Ctrl+x><Ctrl+n>` (Autocomplete word)
+ - `<Ctrl+x><Ctrl+l>` (Autocomplete line)
+ - `<Ctrl+x><Ctrl+f>` (Autocomplete file system)
+ - `<Ctrl+x><Ctrl+k>` (Autocomplete dictionary)
 
 ## Comands - Done:
 
