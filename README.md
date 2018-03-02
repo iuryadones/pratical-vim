@@ -38,7 +38,7 @@ Nouns:
 
 ## Modo Normal
 
-cmd: `dib` or `di(` ou `di)`
+cmd: `dib` or `di(` or `di)`
  - (word1 word2) -> ()
 
 cmd: `di[` or `di]`
