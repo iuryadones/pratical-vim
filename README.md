@@ -10,57 +10,54 @@ Quantify:
  - Percente (1% -> 100%)
 
 Verbs:
- - c (change)
- - d (delete)
- - h (move left)
- - j (move down)
- - k (move up)
- - l (move right)
- - p (paste)
- - v (visual)
- - y (yank/copy)
+ - `c` (change)
+ - `d` (delete)
+ - `h` (move left)
+ - `j` (move down)
+ - `k` (move up)
+ - `l` (move right)
+ - `p` (paste)
+ - `v` (visual)
+ - `y` (yank/copy)
 
 Modifiers:
- - / (search the string or regex)
- - a (around)
- - f (find the character)
- - i (inside)
- - t (find till the character)
+ - `/` (search the string or regex)
+ - `a` (around)
+ - `f` (find the character)
+ - `i` (inside)
+ - `t` (find till the character)
 
 Nouns:
- - b (block/parentheses)
- - p (paragraph)
- - s (sentence)
- - t (tag of html/xml)
- - w (word)
+ - `b` (block/parentheses)
+ - `p` (paragraph)
+ - `s` (sentence)
+ - `t` (tag of html/xml)
+ - `w` (word)
 
 # Commands
 
 ## Modo Normal
 
-* cmd: `dib` or `di(` ou `di)`
+cmd: `dib` or `di(` ou `di)`
  - (word1 word2) -> ()
 
-* cmd: `di[` or `di]`
+cmd: `di[` or `di]`
  - [word1 word2] -> []
 
-* cmd: `diB` or `di{` or `di}`
+cmd: `diB` or `di{` or `di}`
  - {word1 word2} -> {}
 
-* cmd: `di\``
- - \`word1 word2\` -> \`\`
+cmd: `di\` `
+ - `\`word1 word2\`` -> \`\`
 
-* cmd: `di'`
+cmd: `di'`
  - 'word1 word2' -> ''
 
-* cmd: `di'`
- - 'word1 word2' -> ''
-
-* cmd: `di"`
+cmd: `di"`
  - "word1 word2" -> ""
 
-* cmd: `dit`
- - <div>Delete inner Tag</div> -> <div></div>
+cmd: `dit`
+ - *<div>Delete inner Tag</div> -> <div></div>*
 
 ## Commands - Others:
  - `<Ctrl+a>` (Increment)
