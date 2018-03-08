@@ -39,6 +39,7 @@ Nouns:
 ## Modo Normal
 
 cmd: `dib` or `di(` or `di)`
+
 ![Delete inside brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-05-51.gif)
 
 cmd: `di[` or `di]`
