@@ -39,7 +39,7 @@ Nouns:
 ## Modo Normal
 
 cmd: `dib` or `di(` or `di)`
- - (word1 word2) -> ()
+![Delete inside brackets](../gifs/vokoscreen-2018-03-08_16-05-51.gif)
 
 cmd: `di[` or `di]`
  - [word1 word2] -> []
@@ -58,6 +58,19 @@ cmd: `di"`
 
 cmd: `dit`
  - `<div>Delete inner Tag</div>` -> `<div></div>`
+
+## Modo Visual
+
+### UTILIZANDO O CORRETOR E ATUALIZANDO O DICIONÁRIO
+Em modo visual os comandos:
+ - `]s` vai para a próxima palavra;
+ - `[s` vai para a palavra anterior;
+ - `z=` mostra a lista de sugestões para a palavra;
+ - `zg` adiciona a palavra sob o cursor no dicionário, assim ela não será mais marcada como errada;
+ - `zug` desfaz a última palavra adicionada;
+ - `zw` remove a palavra sob o cursor do dicionário, assim ela será marcada como errada;
+ - `zuw` desfaz a última palavra removida.
+
 
 ## Commands - Others:
 
