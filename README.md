@@ -50,11 +50,11 @@ cmd: `diB` or `di{` or `di}`
 
 cmd: ``di` ``
 
-![Delete inside backquotes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-25-26.gif)
+![Delete inside apostrophes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-36-07.gif)
 
 cmd: `di'`
 
-![Delete inside apostrophes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-36-07.gif)
+![Delete inside backquotes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-25-26.gif)
 
 cmd: `di"`
  - "word1 word2" -> ""
