@@ -48,7 +48,7 @@ cmd: `di[` or `di]`
 
 cmd: `diB` or `di{` or `di}`
 
-![Delete inside curly brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_11-56-29.gif)
+![Delete inside curly brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_12-31-59.gif)
 
 cmd: ``di` ``
 
