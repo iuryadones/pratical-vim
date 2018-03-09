@@ -47,18 +47,20 @@ cmd: `di[` or `di]`
 ![Delete inside square brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-53-14.gif)
 
 cmd: `diB` or `di{` or `di}`
- - {word1 word2} -> {}
+
+![Delete inside curly brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_11-56-29.gif)
 
 cmd: ``di` ``
 
-![Delete inside apostrophes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-36-07.gif)
+![Delete inside backquotes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-36-07.gif)
 
 cmd: `di'`
 
-![Delete inside backquotes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-25-26.gif)
+![Delete inside apostrophes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-25-26.gif)
 
 cmd: `di"`
- - "word1 word2" -> ""
+
+![Delete inside backquotes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_11-57-58.gif)
 
 cmd: `dit`
  - `<div>Delete inner Tag</div>` -> `<div></div>`
