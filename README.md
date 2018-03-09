@@ -64,7 +64,7 @@ cmd: `di"`
 
 cmd: `dit`
 
-![Delete inside tags](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_12-40-33.gif)
+![Delete inside tags](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_12-40-33.gif "delete words inside tags")
 
 ## Modo Visual
 
