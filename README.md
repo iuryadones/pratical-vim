@@ -40,27 +40,27 @@ Nouns:
 
 cmd: `dib` or `di(` or `di)`
 
-![Delete inside brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-05-51.gif)
+![Delete inside brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-05-51.gif "delete inside brackets")
 
 cmd: `di[` or `di]`
 
-![Delete inside square brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-53-14.gif)
+![Delete inside square brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-53-14.gif "delete inside square brackets")
 
 cmd: `diB` or `di{` or `di}`
 
-![Delete inside curly brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_12-31-59.gif)
+![Delete inside curly brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_12-31-59.gif "delete inside curly brackets")
 
 cmd: ``di` ``
 
-![Delete inside backquotes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-36-07.gif)
+![Delete inside backquotes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-36-07.gif "delete inside backquotes")
 
 cmd: `di'`
 
-![Delete inside apostrophes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-25-26.gif)
+![Delete inside apostrophes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-25-26.gif "delete inside apostrophes")
 
 cmd: `di"`
 
-![Delete inside backquotes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_11-57-58.gif)
+![Delete inside quotation marks](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_11-57-58.gif "delete inside quotation marks")
 
 cmd: `dit`
 
