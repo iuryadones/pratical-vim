@@ -6,7 +6,7 @@ from pipeline to your make commands
 - Quantity | Verbs | Nouns
 
 Quantity:
- - Integer [-Inf < number (not is Zero) < Inf]
+ - Integer [-Inf < number (is not Zero) < Inf]
  - Percente (1% -> 100%)
 
 Verbs:
@@ -38,31 +38,43 @@ Nouns:
 
 ## Modo Normal
 
-cmd: `dib` or `di(` or `di)`
+cmd:
+ - `dib`
+ - `di(`
+ - `di)`
 
 ![Delete inside brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-05-51.gif "delete inside brackets")
 
-cmd: `di[` or `di]`
+cmd:
+ - `di[`
+ - `di]`
 
 ![Delete inside square brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-53-14.gif "delete inside square brackets")
 
-cmd: `diB` or `di{` or `di}`
+cmd:
+ - `diB`
+ - `di{`
+ - `di}`
 
 ![Delete inside curly brackets](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_12-31-59.gif "delete inside curly brackets")
 
-cmd: ``di` ``
+cmd: 
+ - ``di` ``
 
 ![Delete inside backquotes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-36-07.gif "delete inside backquotes")
 
-cmd: `di'`
+cmd: 
+ - `di'`
 
 ![Delete inside apostrophes](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-08_16-25-26.gif "delete inside apostrophes")
 
-cmd: `di"`
+cmd:
+ - `di"`
 
 ![Delete inside quotation marks](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_11-57-58.gif "delete inside quotation marks")
 
-cmd: `dit`
+cmd: 
+ - `dit`
 
 ![Delete inside tags](https://github.com/iuryxavier/pratical-vim/blob/master/gifs/vokoscreen-2018-03-09_12-40-33.gif "delete words inside tags")
 
